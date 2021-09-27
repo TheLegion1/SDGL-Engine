@@ -44,6 +44,8 @@
     <ClInclude Include="VBO.h" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="Textures\planks.png" />
+    <Image Include="Textures\planksSpec.png" />
     <Image Include="Textures\tex.png" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
